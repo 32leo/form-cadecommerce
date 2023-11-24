@@ -1,7 +1,7 @@
 ## saite de cadastro para compras onlai
 ![](cadastro.png)
 
-### requisitos  
+### dados utilizados  
  para esse site for presisso pessquisar treis saites diferentes como shooping, shen,saite da nike, fazer o cadrastro para ver o que eles pedem para se cadrastrar é apartir de esses dados foi criado um sit com os mesmos requisitos. 
  
 
